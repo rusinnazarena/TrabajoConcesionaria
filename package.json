@@ -1,0 +1,22 @@
+{
+  "name": "nazarena_florencia_rusin_comision3",
+  "version": "1.0.0",
+  "description": "Trabajo Integrador sobre Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rusinnazarena/Trabajo-Integrador-Express.git"
+  },
+  "author": "Nazarena Florencia Rusin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rusinnazarena/Trabajo-Integrador-Express/issues"
+  },
+  "homepage": "https://github.com/rusinnazarena/Trabajo-Integrador-Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
